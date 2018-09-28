@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsultOrderDemosaic", "InsultOrderDemosaic\InsultOrderDemosaic.csproj", "{A78A51A4-B76F-4FF6-8DA7-1C9773185AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78A51A4-B76F-4FF6-8DA7-1C9773185AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78A51A4-B76F-4FF6-8DA7-1C9773185AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78A51A4-B76F-4FF6-8DA7-1C9773185AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78A51A4-B76F-4FF6-8DA7-1C9773185AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A022A5EC-4851-4296-8333-E2D223A2F4EE}
+	EndGlobalSection
+EndGlobal
